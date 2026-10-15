@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Wiki Honor of Kings
+  structure:
+    - type: space
+      key: space-hok-wiki
+      title: Wiki Honor of Kings
+      path: hok-wiki
+      default: true
+      content:
+        directory: ./
+        language: id
