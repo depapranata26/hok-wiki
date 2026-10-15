@@ -1,7 +1,7 @@
 # Item
 
 Item Honor of Kings dibagi ke 6 kategori (sesuai toko dalam game).
-Fisik: didikte user. Magis, Pertahanan, Gerakan, Jungling, Roaming: dari hokstats.gg/id/items/ (diakses 2026-10-15, atas arahan user). AI hanya menulis/merapikan.
+Fisik: didikte user, diselaraskan dengan hokstats.gg (2026-10-15). Magis, Pertahanan, Gerakan, Jungling, Roaming: dari hokstats.gg/id/items/ (diakses 2026-10-15, atas arahan user). AI hanya menulis/merapikan.
 
 Format per item (salin blok ini di bawah kategorinya):
 
@@ -38,6 +38,7 @@ Format per item (salin blok ini di bawah kategorinya):
 
 - **Harga:** 300
 - **Stat:** +8% lifesteal fisik
+- **Catatan:** Detail stat/efek belum terverifikasi ke halaman detail situs (halaman gagal dibuka); harga cocok dengan daftar situs.
 
 ## Plume of Enchantment
 
@@ -48,11 +49,7 @@ Format per item (salin blok ini di bawah kategorinya):
 
 - **Harga:** 820
 - **Stat:** +12% critical rate, +35 serangan fisik
-
-## Lance of Swiftness
-
-- **Harga:** 760
-- **Stat:** +7,5% kecepatan gerakan, +35 serangan fisik
+- **Catatan:** Detail stat/efek belum terverifikasi ke halaman detail situs (halaman gagal dibuka); harga cocok dengan daftar situs.
 
 ## Storm Sword
 
@@ -68,6 +65,7 @@ Format per item (salin blok ini di bawah kategorinya):
 
 - **Harga:** 760
 - **Stat:** +7,5% kecepatan gerakan, +15% kecepatan serangan
+- **Catatan:** Detail stat/efek belum terverifikasi ke halaman detail situs (halaman gagal dibuka); harga cocok dengan daftar situs.
 
 ## Meteor
 
@@ -78,11 +76,6 @@ Format per item (salin blok ini di bawah kategorinya):
 
 - **Harga:** 800
 - **Stat:** +15% kecepatan serangan, +35 serangan fisik
-
-## Ironbrand
-
-- **Harga:** 850
-- **Stat:** +450 HP maks, +15% kecepatan serangan
 
 ## Bloodsoul
 
@@ -128,10 +121,108 @@ Format per item (salin blok ini di bawah kategorinya):
 
 ## Bloodweeper
 
-- **Harga:** 2000
-- **Stat:** +500 HP maks, +25% lifesteal fisik, +80 serangan fisik
-- **Pasif — Recuperation:** memberikan +25% lifesteal fisik
-- **Pasif — Overflow:** mengonversi 50% recovery berlebih menjadi maks 350-700 HP
+- **Harga:** 2000 · **Tier:** 3
+- **Stat:** +500 HP maks, +25% lifesteal fisik, +85 serangan fisik
+- **Pasif — Recuperation:** Memberikan 25% Lifesteal untuk Skill physical.
+- **Sumber:** https://hokstats.gg/id/items/1132/
+
+## Daybreaker's Virtue
+
+- **Harga:** 2570 · **Tier:** 3
+- **Stat:** +75 serangan fisik, +30% kecepatan serangan, +15% critical rate
+- **Pasif — Sunder:** Physical Pierce +15% (digandakan untuk hero jarak jauh).
+- **Pasif — Daybreaker:** Damage Basic Attack +25 (digandakan untuk hero jarak jauh).
+- **Sumber:** https://hokstats.gg/id/items/1155/
+
+## Deepfrost Siege
+
+- **Harga:** 2040 · **Tier:** 2
+- **Stat:** +70 serangan fisik, +25% kecepatan serangan, +750 HP maks
+- **Pasif — Deepfrost:** Basic Attack dan Skill mengurangi Movement Speed sebesar 5%–10% selama 1,5 detik, dapat ditumpuk hingga 2 kali.
+- **Pasif — Frostbite:** Basic Attack dan Skill memberikan 135–270 (+45% Physical Attack tambahan) physical damage tambahan. (Cooldown: 3 detik)
+- **Sumber:** https://hokstats.gg/id/items/1128/
+
+## Demonsbane
+
+- **Harga:** 2060 · **Tier:** 2
+- **Stat:** +90 serangan fisik, +150 Magical Defense, +600 HP maks
+- **Pasif — Anti-Mage:** Meningkatkan Magical Defense sebesar (50% Physical Attack), hingga 250.
+- **Sumber:** https://hokstats.gg/id/items/1125/
+
+## Destiny
+
+- **Harga:** 2060 · **Tier:** 2
+- **Stat:** +75 serangan fisik, +15% kecepatan serangan, +500 HP maks
+- **Pasif — Dark Curtain:** Saat menerima damage mematikan, hero tidak langsung mati, tetapi memperoleh kekebalan serta peningkatan Attack Speed dan Movement Speed sebesar 15% selama 1 detik (0,75 detik untuk hero jarak jauh). Setelah item ini digunakan, durasi efeknya bertambah 0,01 detik setiap 5 detik, hingga maksimal 0,5 detik. (Cooldown: 120 detik)
+- **Sumber:** https://hokstats.gg/id/items/1127/
+
+## Haste - Sunpool
+
+- **Harga:** 3320 · **Tier:** 3
+- **Stat:** +40 serangan fisik, +20% kecepatan serangan, +15% critical rate, +7,5% kecepatan gerakan
+- **Pasif — Precision:** Damage Basic Attack +25 (digandakan untuk hero jarak jauh).
+- **Aktif — Daybreak:** Meningkatkan jangkauan Basic Attack sebesar 125 dan Movement Speed sebesar 40% selama 5 detik. Selama durasi ini, Basic Attack memberikan 30% damage tambahan kepada 1 musuh lain di sekitar. Untuk hero jarak dekat, hanya bonus Movement Speed yang berlaku. (Cooldown: 75 detik)
+- **Sumber:** https://hokstats.gg/id/items/1156/
+
+## Immovable - Sky Dome
+
+- **Harga:** 3280 · **Tier:** 3
+- **Stat:** +80 serangan fisik, +10% reduksi cooldown, +150 Physical Defense
+- **Pasif — Maim:** Skill memperlambat hero musuh pertama yang terkena sebesar 10%–20% dan mengurangi damage yang diterima dari musuh tersebut sebesar 20% selama 3 detik. (Cooldown: 8 detik)
+- **Aktif — Dispel:** Menghapus seluruh efek crowd control. Meningkatkan pengurangan damage sebesar 35% dan Movement Speed sebesar 30%, serta dapat mengabaikan medan selama 3 detik. Mengalahkan hero musuh mereset durasi efek. (Cooldown: 75 detik)
+- **Sumber:** https://hokstats.gg/id/items/1157/
+
+## Master Sword
+
+- **Harga:** 2100 · **Tier:** 3
+- **Stat:** +55 serangan fisik, +15% kecepatan serangan, +20% critical rate, +600 HP maks
+- **Pasif — Savagery:** Menggunakan Skill meningkatkan Movement Speed sebesar 12% selama 2 detik dan physical damage Basic Attack berikutnya dalam 5 detik sebesar (80% Physical Attack). (Cooldown: 3 detik)
+- **Sumber:** https://hokstats.gg/id/items/1134/
+
+## Mortal Punisher
+
+- **Harga:** 2080 · **Tier:** 2
+- **Stat:** +100 serangan fisik, +20% kecepatan serangan, +20% lifesteal fisik
+- **Pasif — Revive:** Memulihkan 375–750 Health selama 5 detik saat Health turun di bawah 30%. (Cooldown: 20 detik)
+- **Pasif — Imperil:** Saat Basic Attack atau Skill mengenai musuh, mengurangi pemulihan Health dan Lifesteal mereka sebesar 35%. Berlangsung 2,5 detik.
+- **Sumber:** https://hokstats.gg/id/items/11210/
+
+## Overlord's Might
+
+- **Harga:** 2540 · **Tier:** 3
+- **Stat:** +150 serangan fisik, +5% reduksi cooldown
+- **Pasif — Siege Breaker:** Memberikan 30% damage tambahan kepada musuh dengan Health di bawah 50%.
+- **Sumber:** https://hokstats.gg/id/items/1138/
+
+## Pure Sky
+
+- **Harga:** 2140 · **Tier:** 2
+- **Stat:** +80 serangan fisik, +10% reduksi cooldown, +150 Physical Defense
+- **Pasif — Maim:** Teks identik dengan Immovable - Sky Dome (lihat di atas). (Cooldown: 8 detik)
+- **Aktif — Dispel:** Memberikan 30% pengurangan damage selama 3 detik. (Cooldown: 75 detik)
+- **Sumber:** https://hokstats.gg/id/items/11311/
+
+## Starbreaker
+
+- **Harga:** 2080 · **Tier:** 2
+- **Stat:** +90 serangan fisik, +700 HP maks, +7,5% kecepatan gerakan
+- **Pasif — Sunder:** Memberikan 30% Physical Pierce.
+- **Sumber:** https://hokstats.gg/id/items/1131/
+
+## Sunchaser
+
+- **Harga:** 2100 · **Tier:** 3
+- **Stat:** +40 serangan fisik, +20% kecepatan serangan, +15% critical rate, +7,5% kecepatan gerakan
+- **Pasif — Precision:** Damage Basic Attack +25 (digandakan untuk hero jarak jauh).
+- **Aktif — Daybreak:** Meningkatkan jangkauan Basic Attack sebesar 125 (khusus hero jarak jauh) dan Movement Speed sebesar 20% selama 5 detik. (Cooldown: 75 detik)
+- **Sumber:** https://hokstats.gg/id/items/1141/
+
+## Tempest
+
+- **Harga:** 2080 · **Tier:** 3
+- **Stat:** +50 serangan fisik, +30% kecepatan serangan, +600 HP maks
+- **Pasif — Tempest:** Basic Attack dan Skill yang mengenai target meningkatkan Attack Speed, Movement Speed, dan damage sebesar 2% selama 2,5 detik, dapat ditumpuk hingga 5 kali.
+- **Sumber:** https://hokstats.gg/id/items/1159/
 
 ## Magis
 
